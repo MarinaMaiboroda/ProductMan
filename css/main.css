@@ -524,6 +524,7 @@ footer{
     font-size: 2rem;
     text-decoration: none;
     color: #979797;
+    vertical-align: middle;
 }
 
 .one-social:hover a{
